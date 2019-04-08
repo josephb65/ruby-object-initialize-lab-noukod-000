@@ -10,4 +10,4 @@ class Dog
 end
 
 mutt = Dog.new 
-mutt.name=(@name, "Mutt")
+mutt.name=(:@name, "Mutt")
