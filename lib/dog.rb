@@ -9,6 +9,11 @@ class Dog
    @name =name 
    @breed = breed
   end 
+  
+  def name 
+    
+  end 
+  
 end
 
 mutt = Dog.new 
