@@ -6,6 +6,8 @@ class Dog
   
   def name(full)
    name, breed = full.split
+   @name =name 
+   @breed = breed
   end 
 end
 
